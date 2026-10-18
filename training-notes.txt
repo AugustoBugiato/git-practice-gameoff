@@ -1,0 +1,6 @@
+GitHub Game Off 2026 - Preparation
+
+Goal: Learn Git and GitHub workflows.
+Tool: VS Code, Git, Node.js and npm.
+Status: Enviroment setup completed.
+Next: Practice commits and repositor management.
